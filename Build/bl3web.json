@@ -1,0 +1,13 @@
+{
+"companyName": "miisfactory",
+"productName": "ブララヴァ3改",
+"dataUrl": "bl3web.data.unityweb",
+"asmCodeUrl": "bl3web.asm.code.unityweb",
+"asmMemoryUrl": "bl3web.asm.memory.unityweb",
+"asmFrameworkUrl": "bl3web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
